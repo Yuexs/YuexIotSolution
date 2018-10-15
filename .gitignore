@@ -1,0 +1,16 @@
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Cc]odeDB/
+VisualGDBCache/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+CodeDB/
+build/
+*.old

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "YuexIotSolution", "YuexIotSolution\YuexIotSolution.vgdbproj", "{6C8DD4D6-716D-4B57-9653-D13AA95EF019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8DD4D6-716D-4B57-9653-D13AA95EF019}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{6C8DD4D6-716D-4B57-9653-D13AA95EF019}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{6C8DD4D6-716D-4B57-9653-D13AA95EF019}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{6C8DD4D6-716D-4B57-9653-D13AA95EF019}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97D8564-6753-437B-AD52-0072330ADB99}
+	EndGlobalSection
+EndGlobal
